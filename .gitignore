@@ -72,4 +72,4 @@ ENV/
 env.bak/
 venv.bak/
 
-number_gussing.jpg/
+.jpg/
